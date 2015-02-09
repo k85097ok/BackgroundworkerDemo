@@ -1,0 +1,8 @@
+c:\users\skylark\documents\visual studio 2010\Projects\BackgroundworkerDemo\BackgroundworkerDemo\bin\Debug\BackgroundworkerDemo.exe
+c:\users\skylark\documents\visual studio 2010\Projects\BackgroundworkerDemo\BackgroundworkerDemo\bin\Debug\BackgroundworkerDemo.pdb
+c:\users\skylark\documents\visual studio 2010\Projects\BackgroundworkerDemo\BackgroundworkerDemo\obj\x86\Debug\BackgroundworkerDemo.Form1.resources
+c:\users\skylark\documents\visual studio 2010\Projects\BackgroundworkerDemo\BackgroundworkerDemo\obj\x86\Debug\BackgroundworkerDemo.processingcs.resources
+c:\users\skylark\documents\visual studio 2010\Projects\BackgroundworkerDemo\BackgroundworkerDemo\obj\x86\Debug\BackgroundworkerDemo.Properties.Resources.resources
+c:\users\skylark\documents\visual studio 2010\Projects\BackgroundworkerDemo\BackgroundworkerDemo\obj\x86\Debug\BackgroundworkerDemo.csproj.GenerateResource.Cache
+c:\users\skylark\documents\visual studio 2010\Projects\BackgroundworkerDemo\BackgroundworkerDemo\obj\x86\Debug\BackgroundworkerDemo.exe
+c:\users\skylark\documents\visual studio 2010\Projects\BackgroundworkerDemo\BackgroundworkerDemo\obj\x86\Debug\BackgroundworkerDemo.pdb
